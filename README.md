@@ -1,0 +1,3 @@
+- Hi, I’m @derekredmond
+- I’m interested in electrical and electronic engineering, and I am a student at Utah State University
+- I’m currently learning the basics of an STM32L476 Nucleo-64 board, and learning how to program it in both ARM assembly and C.
